@@ -1,7 +1,7 @@
 <template>
   <div class="training">
     <h1>Math training</h1>
-    <h2>Level {{level + 1}}</h2>
+    <h2>Level {{level + 1}} !!!</h2>
     <hr>
     <div class="progress">
       <div class="progress-bar" :style="progressStyle"></div>
