@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+A simple game for trainig Math skills. Available at https://v-blazhko.github.io/vue-game/
+
 ## Build Setup
 
 ``` bash
